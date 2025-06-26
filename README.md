@@ -1,4 +1,7 @@
-# trade_data
+# Deprecated ,  I no longer maintaining these data 
+- these data is moved in the open-api-ts project
+- you can use this data in form of the apis
+## trade_data
 
 ## days high low value
 
